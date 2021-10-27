@@ -8,3 +8,4 @@ Email: String
 Blood Group: Integer
 Address: String
 Aadhar Number: Integer
+phone number:integer
